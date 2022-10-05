@@ -16,4 +16,16 @@ blackPink object데이터를 활용해서
 
 하드 코딩 되어있는 App.js를 수정해주세요 
 
+```bash
+#06-jsx-advanced 과제 클론
+git clone https://github.com/blockchainis/06-jsx-advanced.git
 
+# 06-jsx-advanced로 이동
+cd what-is-jsx-homework
+
+#해당 위치에서 VSCode실행
+code .
+
+#npm install로 의존성 설치
+npm install
+```
