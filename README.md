@@ -21,7 +21,7 @@ blackPink object데이터를 활용해서
 git clone https://github.com/blockchainis/06-jsx-advanced.git
 
 # 06-jsx-advanced로 이동
-cd what-is-jsx-homework
+cd 06-jsx-advanced
 
 #해당 위치에서 VSCode실행
 code .
